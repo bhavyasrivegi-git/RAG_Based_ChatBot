@@ -1,3 +1,25 @@
+A powerful Retrieval-Augmented Generation (RAG) chatbot built using Streamlit + LangChain + ChromaDB + Groq LLM, which allows users to ask questions based on content from multiple websites.
+
+**Features**
+
+Input multiple website URLs
+Extract and process web content
+Smart text chunking for better understanding
+Embedding-based semantic search
+AI-powered answers using LLM
+ChatGPT-like conversational interface
+Source references included in responses
+
+**Tech Stack**
+
+Frontend: Streamlit
+Backend: Python
+LLM: Groq (LLaMA 3)
+Embeddings: HuggingFace (MiniLM)
+Vector DB: ChromaDB
+Framework: LangChain
+
+
 # Langchain : Framework 
 # Vector database : chromaDB
 # Huggingface 
