@@ -1,4 +1,4 @@
-A powerful Retrieval-Augmented Generation (RAG) chatbot built using Streamlit + LangChain + ChromaDB + Groq LLM, which allows users to ask questions based on content from multiple websites.
+A powerful Retrieval-Augmented Generation (RAG) chatbot built using Streamlit + LangChain + ChromaDB + Groq LLM, which allows users to ask questions based on content from multiple websites. 
 
 **Features**
 
